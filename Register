@@ -5,12 +5,10 @@
   email: <input type="text1" name="email"><br>
   username: <input type="text2" name="username"><br>
   password: <input type="text4" name="password"><br>
+  confirm password: <input type="text4" name="cfm_password"><br>
   phoneNo: <input type="text3" name="phone_num"><br>
   <input type="submit" name="submit">
 </form>
-
-
-
 </html>
 
 
